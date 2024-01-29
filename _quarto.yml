@@ -1,7 +1,8 @@
 project:
   type: book
   output-dir: _output
-
+  downloads: [pdf,epub]
+  
 toc: true
 number-sections: true
   
