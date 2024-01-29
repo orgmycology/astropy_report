@@ -1,8 +1,8 @@
 project:
   type: book
   output-dir: _output
-  downloads: [pdf,epub]
-  
+
+
 toc: true
 number-sections: true
   
@@ -10,12 +10,13 @@ book:
   title: "Astropy Community Engagement Report"
   author: [Beth Duckles, Dan Sholler, Jonah Duckles]
   date: "January 29, 2024"
+  downloads: [pdf]
   page-footer:
     left: |
      A report on engagement in the Astropy community
     right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
-  #cover-image: cover.jpg
+      ![](/short_logo.png) 
+  cover-image: cover.png
   #favicon: cover.jpg
   site-url: https://astropy-report.orgmycology.com
   repo-url: https://github.com/orgmycology/astropy_report
