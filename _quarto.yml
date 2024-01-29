@@ -9,7 +9,7 @@ number-sections: true
 book:
   title: "Astropy Community Engagement Report"
   author: [Beth Duckles, Dan Sholler, Jonah Duckles]
-  date: "January 29, 2024"
+  date: "February 1, 2024"
   downloads: [pdf]
   page-footer:
     left: |
