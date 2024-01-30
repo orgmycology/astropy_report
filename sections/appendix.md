@@ -1,4 +1,4 @@
-# Survey Questions {.unnumbered}
+# Survey Questions 
 
 ## Astropy Community Engagement Survey
 
