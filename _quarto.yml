@@ -40,7 +40,6 @@ book:
         - sections/2_community_participation.md
         - sections/3_communication.md
         - sections/4_improving_participation.md
-        - sections/5_contribution.md
     - part: Recommendations
       chapters:
       - sections/community_recommendations.md
