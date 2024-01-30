@@ -30,8 +30,10 @@ book:
   chapters:
     - index.md
     - sections/exec_summary.md
-    - sections/intro.md
-    - sections/methods.md
+    - part: Introduction and Methods
+      chapters:
+        - sections/intro.md
+        - sections/methods.md
     - part: sections/survey_results.md
       chapters:
         - sections/1_community_composition.md
@@ -39,9 +41,10 @@ book:
         - sections/3_communication.md
         - sections/4_improving_participation.md
         - sections/5_contribution.md
-    - sections/community_recommendations.md
-    - sections/consultant_recommendations.md
-    
+    - part: Recommendations
+      chapters:
+      - sections/community_recommendations.md
+      - sections/consultant_recommendations.md
   appendices:
     - sections/references.md
     - sections/appendix.md
