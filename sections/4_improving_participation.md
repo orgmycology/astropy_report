@@ -1,11 +1,11 @@
-## Improving Participation 
+# Improving Participation 
 
 
-### Change about Astropy
+## Change about Astropy
 
 We asked respondents what they would change about Astropy, leaving the question open-ended so as to enable comments on technical, social, or other issues faced by community members. Newcomer issues were a major theme, with several respondents mentioning the desire to have easier entry points for using or contributing to astropy. Other themes included respondents seeking improvements to the affiliated package and PR processes, expressing desired support for using Astropy in educational settings, and suggesting revisions to community priorities. 
 
-#### Easier Contributions
+### Easier Contributions
 
 Respondents described wanting wanting to make contributions to the community easier. Some also described not knowing how to make a contribution more learning opportunities for newcomers or returning
 members and 
@@ -20,7 +20,7 @@ members and
 
 > Make it easier to contribute
 
-#### Development of Affiliated Packages
+### Development of Affiliated Packages
 
 The Astropy community seems to value affiliated packages both for their utility in practice and the experience of developing affiliated packages alongside the community's experts. Still, respondents had several ideas for improvements in affiliated package development and standardization. 
 
@@ -30,7 +30,7 @@ The Astropy community seems to value affiliated packages both for their utility 
 
 > I know we don\'t have money to do this right now, but what if we competitively award grants to post-PhD folks to seed projects that could become affiliated packages? We could provide check-ins with liaisons from astropy who work to preserve/enforce interoperability within the ecosystem. And we\'d help foster the folks at upper end of the user-to-developer pipeline.
 
-#### Standards for Affiliated Packages
+### Standards for Affiliated Packages
 
 Several respondents were interested in improved and more clear documentation and 
 standards. 
@@ -41,7 +41,7 @@ standards.
 
 > More standardization and quality control
 
-#### Support for Non-Astropy Software
+### Support for Non-Astropy Software
 
 There was a theme around getting support for how to use astropy in more complex environments with other software, as well as exploring new paradigms for commputing
 within the community.
@@ -55,7 +55,7 @@ to successfully use them with astropy methods.
  high-performance computing, like JAX.
 
 
-#### Code Quality and Maintenance
+### Code Quality and Maintenance
 
 There were some concerns about quality and purity of code coming before some
 more practical concerns. Also an observation of a need for more people with the role of "maintainter".
@@ -70,7 +70,7 @@ the community.
 
 
 
-#### Happy with the current state or personal challenges
+### Happy with the current state or personal challenges
 
 Several respondents were comfortable with the way the community is at the moment.
 While some thought there would be some ways to improve involvement and kindness.
@@ -83,14 +83,14 @@ While some thought there would be some ways to improve involvement and kindness.
 
 > Replace Astronomers with kinder and more normal people.
 
-#### More Support for Education
+### More Support for Education
 
 One respondent expressed a need for a more full curriculum shared by the Astropy community
 that can help teach astronomy programming with more structure.
 
 > Having more tutorials and perhaps a full curriculum available for instructors to use/adapt for classes would help greatly. Astronomy programming is still taught somewhat ad-hoc at least at my institution.
 
-#### Support for Early Career Astronomers
+### Support for Early Career Astronomers
 
 Similar to the education support, there was a clear expression by some respondents of a need for more formal ways of learning about and getting credit for high-quality
 software developemnt.
@@ -100,20 +100,20 @@ software developemnt.
 > Much of it is built by early career researchers who deserve better rewards! But that\'s not so much a problem in the Astropy community but rather in academia as a whole.
 
 
-#### Networking and Jobs 
+### Networking and Jobs 
 One respondent was interested in seeing more career development opportunities
 or project collaboration opportunites as part of the community. 
 
 > One thing I would like to suggest is showing related job or project
     opportunities
 
-#### Faster Response Times 
+### Faster Response Times 
 
 One respondent was concerned about how some GitHub Issues linger unaddressed by the community. 
 
 > Better responses to issues raised (often just ignored, even if they are acknowledged issues)
 
-#### PR Process
+### PR Process
 
 There was feedback about the challenges of submitting PRs and the number of comments and changes requested for PRs. 
 

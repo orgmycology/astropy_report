@@ -1,11 +1,11 @@
 
-## Barriers to Contribution 
+# Barriers to Contribution 
 
 We asked participants specifically about barriers they had to using or contributing to the Astropy project and `astropy` software. These barriers ranged from technical to community and more broadly systemic barriers to how sofware development is credited in academic communities. 
 
 Some areas to explore changes in how Astropy works could be around how first  contributions take place, and what can be done to remove barriers to the first contribution made in the community. 
 
-####   Git is Intimidating
+##   Git is Intimidating
 
 Looking at the version control software Git, some of the responses talked about 
 how Git itself can be a barrier as it can be intimidating and require some skills that not all beginners have. 
@@ -16,7 +16,7 @@ how Git itself can be a barrier as it can be intimidating and require some skill
        
 >    see previous answer about being more welcoming of non-expert contributions to github issues and code.
 
-#### Complexity and Technical Skill
+## Complexity and Technical Skill
 
 Many responses centered around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are 
 often not always better for the newcomer. 
@@ -32,7 +32,7 @@ often not always better for the newcomer.
 >    We could lower the bar for contributing code by being careful of the barriers that the Python linter \"ruff\" has introduced.
 
 
-#### Knowing Where to Start
+## Knowing Where to Start
 
 A few responses talked about not knowing where to start and how to bring their skills and expertise into the community. It is clear these resondents would like to find ways to contribute, but might need some support in order to be able to do so. 
 
@@ -45,7 +45,7 @@ A few responses talked about not knowing where to start and how to bring their s
 
 > I'm a rubbish coder!
 
-####  Value of the Work to One's Career
+##  Value of the Work to One's Career
 
 A few responses focused on how their own jobs or careers did not value contribution to open soruce. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader community. 
 
@@ -53,7 +53,7 @@ A few responses focused on how their own jobs or careers did not value contribut
 
 >   My biggest barrier has been the expectation that the longevity of my career as an astronomer would be at risk if I contributed to astropy as frequently as I wanted. Few things in life are zero-sum, but there\'s no flexibility on the finite 24 hours in a day. I was cautious about spending time on work in the astropy ecosystem that wouldn\'t produce a first author paper.
 
-#### Community
+## Community
 
 Community members seemed to be looking for more interactive ways to get-to-know others in the community. Some felt like discussions they had been privy to moved to some other platform they weren't aware of at a certain point in time. Others mentioned that being optically focused, they felt a excluded as a radio astronomer. 
 
@@ -65,7 +65,7 @@ focused on optical astronomy.
 
 >  I am not been able to get involved with the astropy project due to lack of interaction with the community. If there\'s any wayto interact with the community, I believe I and many more people will be able to contribute
 
-####   Documentation
+##   Documentation
 
 Documentation was observed to be not very accessible to one respondent. Some 
 work to gather user feedback from documentation users might help to develop some
@@ -75,7 +75,7 @@ more useful to newcomers.
 >  Minimal (and somewhat outdated) documentation for creating an Astropy affiliated package; the assumption seemed to be that people doing this would already be very familiar with the Astropy package architecture and procedures, and so no explanation of what anything in the (default) package was for seemed to exist. Consequently, I gave up my attempt to create an affiliated package.
 
 
-#### No problems
+## No problems
 
 A few responses have said that their first contributions went very well, and their interactions with maintainters was "lovely". 
 

@@ -8,7 +8,7 @@ We queried Astropy community members to gather their ideas about how to improve 
 Across the responses, one theme stood out: astropy users sometimes doubt their own abilities and value, with multiple respondents reporting that they or other users may not feel "skilled" enough to make meaningful contributions. Although difficult to solve from a structural level, we offer some suggestions later in this document for helping community members overcome this imposter syndome-like barrier.
 
 
-#### Beginner Resources
+### Beginner Resources
 
 In any established open source software project, newcomers are often intimidated by the skill and experience of existing community members and feel that they [lack the requisite skills](https://www.sciencedirect.com/science/article/pii/S0950584914002390?casa_token=qpo_rXMvRPwAAAAA:trQd-wNrk7Zz7loteVxEk5dhv1qGJNpIEC8-0NhySsLOVyMFH4_5TgMaCXfbyrZH5JKFANAgMw) to meaningfully contribute to the project. 
 
@@ -42,7 +42,7 @@ One respondent made a suggestion for how to turn these ideas into action, which 
         welcome. A newsletter or how-to on the new coding checks like
         ruff would be helpful.
 
-#### Contribution List
+### Contribution List
 Beyond newcomer workshops, other respondents suggested lightweight options that in some cases already exist and could benefit from some tweaking. A separate repository for newcomer issues, for example, may help get more contributors on board, particularly if the list could include skills that are required. 
 
 >  Maintaining a clear list of easy and potentially interesting
@@ -68,14 +68,14 @@ Outreach to newcomers could also emphasize that projects like Astropy depend on 
 >  Clearly make people aware that software is something to be part
         of, not just make use of.
 
-#### Communication/Community Interaction
+## Communication/Community Interaction
 Some respondents seemed to be unaware of the various platforms available for communicating with other Astropy community members, suggesting that better advertising of these outlets may help facilitate interactions:
 >  Have a well organized platform where the community can easily
         interact, discuss issues, suggest improvements that has a low
         barrier to entry.
 
 
-#### Workshops
+### Workshops
 
 Across all questions, respondents communicated an appetite for more learning opportunities. Most of these suggestions centered around workshops on various topics (e.g., contributor workshops, demo workshops, coding workshops, and workshops for underrepresented communities):
 
@@ -106,7 +106,7 @@ The workshops and events that Astropy already offers could also be easier to fin
         information on when future events will take place if I don\'t
         already know about them.
 
-####  More Outreach
+###  More Outreach
 Beyond workshops, community members suggested other forms of outreach that may help Astropy's community thrive. Educational outreach, for example, could help reach potential users and contributors who are already in an active learning environment:
 >  More outreach to professors and teachers
 
@@ -147,7 +147,7 @@ Outreach could also include conducting research with potential users and contrib
         have had time to. Increase outreach to communities outside of
         Europe & North America.
 
-### Other Suggestions
+## Other Suggestions
 Additional responses from surveys are listed below: 
 
 >  Provide more tutorials and use cases.
@@ -176,7 +176,7 @@ Additional responses from surveys are listed below:
         to and writing new tutorials might be a way to help: newcomers
         know best what tutorials are needed.
 
-#### Money
+## Money
 
 Respondents also had thoughts and suggestions around how Astropy could ask for more money to facilitate these community improvement ideas and otherwise sustain the project. 
 
@@ -192,7 +192,7 @@ Respondents also had thoughts and suggestions around how Astropy could ask for m
 > Ask big consortia to contribute somehow if they release software
         built on astropy software?
 
-#### It is Good
+## It is Good
 Finally, some Astropy community members felt that things were going well. 
 
 > It appears community participation is about as good as could be

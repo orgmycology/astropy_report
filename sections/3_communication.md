@@ -1,9 +1,9 @@
 
-## Communication Channels 
+# Communication Channels 
 
 We wanted to get a better understanding of the way that people used Astropy's communication channels. To do this we asked both specific questions as well as open ended questions. Both are summarized here.  
 
-### Facebook, Slack, Discourse Enagagement
+## Facebook, Slack, Discourse Enagagement
 
 When we asked people directly if they were part of the Python Users's in Astronomy Facebook group, a group with 7,300 members. From our survey respondents, 57% were not members, 24% had used the group in the past year, and 19% had more than a year ago. 
 
@@ -11,13 +11,13 @@ We similarly asked about Slack community participation, 58% had not used Slack a
 
 When asked about the Open Astronomy Discourse, 80% had not used it, the remaining 20% had in the past, 13% in the past year, and 7% more than a year ago. 
 
-### Benefits of Online Forums
+## Benefits of Online Forums
 
 We asked respondents what the benefits were for engaging with online forums and how they used them. Respondents told us that they used the forums to get  answers to questions, to learn about technical updates as well as to avoid challenges with updates or as an alternative to opening a Github issue. Some discussed forums as a place to see the transparency of the development process or to understand the use cases for the software. Some also commented that they used the forums for learning materials. Others responded that they did not know that Astropy online forums existed. 
 
 Below we've summarized the themes from their responses with representative quotes. 
 
-#### Getting Answers 
+### Getting Answers 
 
 Respondents talked about one of the benefits of the online forums is that they are a place to give or receive specific, tailored answers to questions. Folks called it an "informal help desk" and a place to get expert advice, help with problems, as well as a place to network and communicate with the community. 
 
@@ -55,7 +55,7 @@ Specifically some folks turned to the Slack to get these answers and saw it as t
 > Slack: communication with other developers. Discourse: communication with Bob developer users
 
 
-#### Technical Updates 
+### Technical Updates 
 
 Many respondents appreciate the ability to keep abreast of what is going on in the community. From seeing bug reports to workshop planning and more in-depth conversations. Some community members said they wanted to avoid things breaking due to updates or bug fixes and they turned to the online forums for that knowledge.
 
@@ -84,7 +84,7 @@ Again, respondents saw Slack as the place to keep up with news, announcements, p
 
 > For Slack, it mostly helps to keep track of announcements.
 
-#### Alternative to Github Issues
+### Alternative to Github Issues
 
 Some specifically mentioned that they use these forums as an alternative to Github issues. 
 
@@ -93,7 +93,7 @@ Some specifically mentioned that they use these forums as an alternative to Gith
 > Quick feedback on questions or discussions that don\'t warrant a Github issue
 
 
-#### Transparency of Technical Development
+### Transparency of Technical Development
 
 Some also commented that being in these forums allowed them to see how the developer ecosystem worked. 
 
@@ -103,7 +103,7 @@ Some also commented that being in these forums allowed them to see how the devel
    
 
 
-#### Use Cases
+### Use Cases
 Some also saw the forums as a good place to look for use cases and ways that people are using their code to solve problems. In essence, this becomes a place for developers to see real life use cases of the technology. 
 
 >   Use case examples
@@ -116,7 +116,7 @@ Some also saw the forums as a good place to look for use cases and ways that peo
 
 >   New usage ideas
 
-#### Learning Via Community
+### Learning Via Community
 Some said that online forums were a place where they learned to use Astropy and found resources they needed. 
 
 >   I learnt how to use Astropy
@@ -124,7 +124,7 @@ Some said that online forums were a place where they learned to use Astropy and 
 >   Pointers to resources
 
 
-#### Not Aware
+### Not Aware
 Several of the people that were surveyed did not know that the online forums existed or did not use the forums. This will also be reflected int he next question around improving online forums. 
 
 >   I am not involved and/or not aware they existed
@@ -142,13 +142,13 @@ Several of the people that were surveyed did not know that the online forums exi
 > I haven\'t looked at Discourse or Facebook very often.
 
 
-### Improvements to Online Forums
+## Improvements to Online Forums
 
 When asked what survey respondents thought would improve online forums, we saw several ways that these spaces might be improved. 
 
 Respondents commented that the communities seem fragmented, that there is a challenge of needing spaces for users and also for developers, they also commented on specific issues with Discourse, Slack, Facebook and other sites. We also heard that folks were not aware of some of the online forums, that they want more resources for beginners/new users and searchability of the forums is a priority. 
 
-#### Fragmentation of Forums
+### Fragmentation of Forums
 Respondents mentioned that there is a fragmentation in the Astropy online communities and indcated a need to make clearer what each forum is for and where information is located.  
 
 > I would like to know where is the community discussion now. Fragmentation is a problem but I do not know how to solve it.
@@ -159,7 +159,7 @@ Respondents mentioned that there is a fragmentation in the Astropy online commun
 
  >    More general information posted. General updates, etc.
 
-#### Forums for Users vs. Developers
+### Forums for Users vs. Developers
 
 Specifically, the fragmentation was between user forums and developer forums and some folks had suggestions on how to mitigate the different needs of each community. 
 
@@ -171,7 +171,7 @@ Specifically, the fragmentation was between user forums and developer forums and
 
 >   it\'s good to be able to contribute to the discussion, but a lot of discussion is also too technical for me
 
-####  Discourse
+###  Discourse
 
 Some folks had specific thoughts about the use of Discourse and indicated that it has less people who are active on the forum. 
 
@@ -183,7 +183,7 @@ Some folks had specific thoughts about the use of Discourse and indicated that i
 
 >  I would try to steer user questions towards Discourse and I would set up better notifications for Discourse. Discourse is not active and the interface does not invite engagement.
 
-####  Slack
+###  Slack
 Opinions about Slack varied. Some indicated that they'd prefer not using it, while others had specific opinions on 
 
 > It would be nice to replace Slack by a more open system, but it\'s not clear that would really get an appropriate head of steam.
@@ -197,7 +197,7 @@ Opinions about Slack varied. Some indicated that they'd prefer not using it, whi
 > Nnobody from WCS team participates on Slack.
 
 
-#### Facebook, Bluesky and Twitter
+### Facebook, Bluesky and Twitter
 
 Folks who responded had thoughts about Facebook as well as Bluesky/Twitter. 
 
@@ -207,7 +207,7 @@ Folks who responded had thoughts about Facebook as well as Bluesky/Twitter.
 
 >   Move to bluesky and off of Twitter/x
 
-#### I Didn't Know
+### I Didn't Know
 
 Similar to responses to the previous question, some folks indicated that they did not know about all the forums that are available to Astropy members and indicated they'd like to have information on how to join. 
 
@@ -217,7 +217,7 @@ Similar to responses to the previous question, some folks indicated that they di
 
 >   I didn\'t even know about Slack, so I need to check that out. 
 
-####  New Users
+###  New Users
 
 Respondents said that information about how to join or become involved for new folks would be helpful. 
 
@@ -225,7 +225,7 @@ Respondents said that information about how to join or become involved for new f
 
 >   I think some tutorials or resources for people that may want to get more involved in contributing to astropy project but don\'t have a background in astronomy or astrophysics but may be coming from a related field, e.g. physics, computer science etc. 
 
-#### Searchability
+### Searchability
 
 Some folks also mentioned that a priority was to make sure that the online forums were searchable. 
 
@@ -238,7 +238,7 @@ Some folks also mentioned that a priority was to make sure that the online forum
 > Slack is fine the way it is and I am happy with that except it is not useful as a way to search for code question answers.
 
 
-#### Other
+### Other
 
 Finally we heard a few additional comments: 
 >   Use open platforms please.
