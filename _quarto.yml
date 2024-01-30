@@ -9,7 +9,7 @@ number-sections: true
 book:
   author: [Beth Duckles, Dan Sholler, Jonah Duckles]
   date: "February 1, 2024"
-  downloads: [pdf, docx]
+  downloads: [pdf]
   page-footer:
     left: |
      A report on engagement in the Astropy community
