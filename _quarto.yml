@@ -5,35 +5,49 @@ project:
 
 toc: true
 number-sections: true
-  
+
 book:
-  title: "Astropy Community Engagement Report"
   author: [Beth Duckles, Dan Sholler, Jonah Duckles]
   date: "February 1, 2024"
-  downloads: [pdf]
+  downloads: [pdf, docx]
   page-footer:
     left: |
      A report on engagement in the Astropy community
     right: |
-      ![](/short_logo.png) 
+      [![](/short_logo.png)](https://orgmycology.com)
   cover-image: cover.png
-  #favicon: cover.jpg
+  favicon: cover.png
   site-url: https://astropy-report.orgmycology.com
   repo-url: https://github.com/orgmycology/astropy_report
   repo-branch: main
   repo-actions: [edit, issue]
+  sidebar:
+    logo: cover.png
+    style: docked
+    background: light
+    collapse-section: 1
+    border: true
   chapters:
     - index.md
     - sections/exec_summary.md
     - sections/intro.md
     - sections/methods.md
-    - sections/survey_results.md
+    - part: sections/survey_results.md
+      chapters:
+        - sections/1_community_composition.md
+        - sections/2_community_participation.md
+        - sections/3_communication.md
+        - sections/4_improving_participation.md
+        - sections/5_contribution.md
     - sections/community_recommendations.md
     - sections/consultant_recommendations.md
+    
+  appendices:
     - sections/references.md
     - sections/appendix.md
 format:
   html:
-    theme: materia
+    theme: flatly
   pdf:
-    documentclass: scrreport
+    cover-image: cover.png
+    documentclass: scrbook
