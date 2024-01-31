@@ -3,7 +3,7 @@
 
 ## Change about Astropy
 
-We asked respondents what they would change about Astropy, leaving the question open-ended so as to enable comments on technical, social, or other issues faced by community members. Newcomer issues were a major theme, with several respondents mentioning the desire to have easier entry points for using or contributing to astropy. Other themes included respondents seeking improvements to the affiliated package and PR processes, expressing desired support for using Astropy in educational settings, and suggesting revisions to community priorities. 
+We asked respondents what they would change about Astropy, leaving the question open-ended so as to enable comments on technical, social, or other issues faced by community members. Newcomer issues were a major theme, with several respondents mentioning the desire to have easier entry points for using or contributing to Astropy. Other themes included respondents seeking improvements to the affiliated package and PR processes, expressing desired support for using Astropy in educational settings, and suggesting revisions to community priorities. 
 
 ### Easier Contributions
 
@@ -43,7 +43,7 @@ standards.
 
 ### Support for Non-Astropy Software
 
-There was a theme around getting support for how to use astropy in more complex environments with other software, as well as exploring new paradigms for commputing
+There was a theme around getting support for how to use astropy in more complex environments with other software, as well as exploring new paradigms for computing
 within the community.
 
 >  expanded emphasis on astronomical software in general. python is a good solution for many use cases, but not always the optimal one.
@@ -58,8 +58,8 @@ to successfully use them with astropy methods.
 ### Code Quality and Maintenance
 
 There were some concerns about quality and purity of code coming before some
-more practical concerns. Also an observation of a need for more people with the role of "maintainter".
-It is clear that commnity members value code quality and stability of code that comes from 
+more practical concerns. Also an observation of a need for more people with the role of "maintainer".
+It is clear that community members value code quality and stability of code that comes from 
 the community. 
 
 > I perceive the community to be snobbish about code quality / purity, while at the same time undermining itself with things like cosmetic changes to API options that breaks my code whenever I upgrade to the latest version.
@@ -93,7 +93,7 @@ that can help teach astronomy programming with more structure.
 ### Support for Early Career Astronomers
 
 Similar to the education support, there was a clear expression by some respondents of a need for more formal ways of learning about and getting credit for high-quality
-software developemnt.
+software development.
 
 > I hope we are teaching young astronomers very early how to build, maintain, and contribute code. It was very hard for me to learn at a later career stage.
 
@@ -102,7 +102,7 @@ software developemnt.
 
 ### Networking and Jobs 
 One respondent was interested in seeing more career development opportunities
-or project collaboration opportunites as part of the community. 
+or project collaboration opportunities as part of the community. 
 
 > One thing I would like to suggest is showing related job or project
     opportunities
@@ -121,7 +121,7 @@ There was feedback about the challenges of submitting PRs and the number of comm
 
 ## Barriers to Contribution 
 
-We asked participants specifically about barriers they had to using or contributing to the Astropy project and `astropy` software. These barriers ranged from technical to community and more broadly systemic barriers to how sofware development is credited in academic communities. 
+We asked participants specifically about barriers they had to using or contributing to the Astropy project and `astropy` software. These barriers ranged from technical to community and more broadly systemic barriers to how software development is credited in academic communities. 
 
 Some areas to explore changes in how Astropy works could be around how first  contributions take place, and what can be done to remove barriers to the first contribution made in the community. 
 
@@ -138,12 +138,12 @@ how Git itself can be a barrier as it can be intimidating and require some skill
 
 ### Complexity and Technical Skill
 
-Many responses centered around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are 
+Many responses centred around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are 
 often not always better for the newcomer. 
 
 > Astropy is huge. The project is very daunting to find a place to contribute.
 
-> Contributing code to Astropy takes a relatively high degree oftechnical skill. That makes it more accessible to people who have the free time or resources to acquire that skill.
+> Contributing code to Astropy takes a relatively high degree of technical skill. That makes it more accessible to people who have the free time or resources to acquire that skill.
 
 > I haven\'t tried very hard, but it is sometimes staggering how much complexity goes into contributing to Astropy. I gather that the main dev team is aware of this and is thoughtful about improving accessibility.
 
@@ -154,7 +154,7 @@ often not always better for the newcomer.
 
 ### Knowing Where to Start
 
-A few responses talked about not knowing where to start and how to bring their skills and expertise into the community. It is clear these resondents would like to find ways to contribute, but might need some support in order to be able to do so. 
+A few responses talked about not knowing where to start and how to bring their skills and expertise into the community. It is clear these respondents would like to find ways to contribute, but might need some support in order to be able to do so. 
 
 > Knowing where to start contributing!
 
@@ -167,7 +167,7 @@ A few responses talked about not knowing where to start and how to bring their s
 
 ###  Value of the Work to One's Career
 
-A few responses focused on how their own jobs or careers did not value contribution to open soruce. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader community. 
+A few responses focused on how their own jobs or careers did not value contribution to open source. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader community. 
 
 >   It\'s not counted as valuable work.
 
@@ -177,13 +177,13 @@ A few responses focused on how their own jobs or careers did not value contribut
 
 Community members seemed to be looking for more interactive ways to get-to-know others in the community. Some felt like discussions they had been privy to moved to some other platform they weren't aware of at a certain point in time. Others mentioned that being optically focused, they felt a excluded as a radio astronomer. 
 
->  As mentioned before the main barrier that I found was to find the community discussion in places where I participate. I tend to avoid privative platforms and I could see how participation in, for example, the email list faded with time. At some point I did not know if people moved somewhere else or something elsewas happening.
+>  As mentioned before the main barrier that I found was to find the community discussion in places where I participate. I tend to avoid privative platforms and I could see how participation in, for example, the email list faded with time. At some point I did not know if people moved somewhere else or something else was happening.
 
 >  Sometimes its hard to line up terminology from the radio
 astronomy community with astropy terminology. It feels very
 focused on optical astronomy.
 
->  I am not been able to get involved with the astropy project due to lack of interaction with the community. If there\'s any wayto interact with the community, I believe I and many more people will be able to contribute
+>  I am not been able to get involved with the astropy project due to lack of interaction with the community. If there\'s any way to interact with the community, I believe I and many more people will be able to contribute
 
 ###   Documentation
 
@@ -197,7 +197,7 @@ more useful to newcomers.
 
 ### No problems
 
-A few responses have said that their first contributions went very well, and their interactions with maintainters was "lovely". 
+A few responses have said that their first contributions went very well, and their interactions with maintainers was "lovely". 
 
 >  No, my first contribution was last year and I\'ve done a few more since that. Loved all the interactions with the maintainers, they\'re lovely.
 

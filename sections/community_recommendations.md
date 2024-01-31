@@ -5,7 +5,7 @@ We queried Astropy community members to gather their ideas about how to improve 
 
 ## Improve Community Participation
 
-Across the responses, one theme stood out: astropy users sometimes doubt their own abilities and value, with multiple respondents reporting that they or other users may not feel "skilled" enough to make meaningful contributions. Although difficult to solve from a structural level, we offer some suggestions later in this document for helping community members overcome this imposter syndome-like barrier.
+Across the responses, one theme stood out: astropy users sometimes doubt their own abilities and value, with multiple respondents reporting that they or other users may not feel "skilled" enough to make meaningful contributions. Although difficult to solve from a structural level, we offer some suggestions later in this document for helping community members overcome this imposter syndrome-like barrier.
 
 
 ### Beginner Resources
@@ -52,7 +52,7 @@ Beyond newcomer workshops, other respondents suggested lightweight options that 
 >  Having more beginner-friendly tasks/issues tagged on github and
         advertising those in the docs would help I think.
 
-Similarly, one respondent noted that an increased presence on non-GitHub software platforms could increase the visibilty and accessibility of the project:
+Similarly, one respondent noted that an increased presence on non-GitHub software platforms could increase the visibility and accessibility of the project:
 >  We should be more active on Stackoverflow and encourage new
         users to post questions there to build up a nice database of
         simple questions/answers for new users.
@@ -77,7 +77,7 @@ Some respondents seemed to be unaware of the various platforms available for com
 
 ### Workshops
 
-Across all questions, respondents communicated an appetite for more learning opportunities. Most of these suggestions centered around workshops on various topics (e.g., contributor workshops, demo workshops, coding workshops, and workshops for underrepresented communities):
+Across all questions, respondents communicated an appetite for more learning opportunities. Most of these suggestions centred around workshops on various topics (e.g., contributor workshops, demo workshops, coding workshops, and workshops for underrepresented communities):
 
 >  I think we could hold contributor workshops or Github workshops
         at more technical meetings like ADASS.
@@ -93,7 +93,7 @@ Across all questions, respondents communicated an appetite for more learning opp
 
 >  Expanding workshops to these targeted communities.
 
-Some community members also suggessted more informal, self-directed opportunities for learning:
+Some community members also suggested more informal, self-directed opportunities for learning:
 >  Monthly live demos / mob coding over Zoom? Office hours, like
         bring your annoying coding problem that you feel silly for not
         being able to solve, and we\'ll make breakout rooms and work on

@@ -3,7 +3,7 @@
 
 We wanted to get a better understanding of the way that people used Astropy's communication channels. To do this we asked both specific questions as well as open ended questions. Both are summarized here.  
 
-## Facebook, Slack, Discourse Enagagement
+## Facebook, Slack, Discourse Engagement
 
 When we asked people directly if they were part of the Python Users's in Astronomy Facebook group, a group with 7,300 members. From our survey respondents, 57% were not members, 24% had used the group in the past year, and 19% had more than a year ago. 
 
@@ -29,12 +29,12 @@ Respondents talked about one of the benefits of the online forums is that they a
 
 > I don\'t benefit from them. The only reason I joined is to help answer questions about the bit I maintain in my affiliated package.
 
-> I get to communicate with the community who use Astropy and might have different solutions to problems that I have as a user. Usually, Astropy\'s devs are too busy to answer questions but having online forums allows me to unstick myself through the community.
+> I get to communicate with the community who use Astropy and might have different solutions to problems that I have as a user. Usually, Astropy's devs are too busy to answer questions but having online forums allows me to unstick myself through the community.
 
 > I learn new stuff and occasionally get to help other people with their problems.
 
 
-> I use it very effectively as an online informal helpdesk
+> I use it very effectively as an online informal help desk
 
 > It\'s a great place to get advice on astronomy/Astropy specific problems/issues. Similar to StackExchange but focused.
 
@@ -149,7 +149,7 @@ When asked what survey respondents thought would improve online forums, we saw s
 Respondents commented that the communities seem fragmented, that there is a challenge of needing spaces for users and also for developers, they also commented on specific issues with Discourse, Slack, Facebook and other sites. We also heard that folks were not aware of some of the online forums, that they want more resources for beginners/new users and searchability of the forums is a priority. 
 
 ### Fragmentation of Forums
-Respondents mentioned that there is a fragmentation in the Astropy online communities and indcated a need to make clearer what each forum is for and where information is located.  
+Respondents mentioned that there is a fragmentation in the Astropy online communities and indicated a need to make clearer what each forum is for and where information is located.  
 
 > I would like to know where is the community discussion now. Fragmentation is a problem but I do not know how to solve it.
 
@@ -197,9 +197,9 @@ Opinions about Slack varied. Some indicated that they'd prefer not using it, whi
 > Nnobody from WCS team participates on Slack.
 
 
-### Facebook, Bluesky and Twitter
+### Facebook, Blue Sky and Twitter
 
-Folks who responded had thoughts about Facebook as well as Bluesky/Twitter. 
+Folks who responded had thoughts about Facebook as well as Blue Sky/Twitter. 
 
 > Facebook is an exclusionary walled-garden; there shouldn\'t be any official presence there.
 

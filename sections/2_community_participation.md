@@ -28,7 +28,7 @@ Respondents said that Astropy creates high quality, well-documented software as 
 
 ### Useful
 
-Respondents said that they used Astropy software in their work and described it as practical, reliable and useful. Several respodnents mention that it is a core part of the work they do. 
+Respondents said that they used Astropy software in their work and described it as practical, reliable and useful. Several respondents mention that it is a core part of the work they do. 
 
 > Commitment to standardizing useful software
 
@@ -77,11 +77,11 @@ Survey respondents talked about the inclusive and welcoming nature of the commun
 
 ### Constructive Feedback and Support
 
-Another theme was the sense that the community offeres helpful and constructive responses to questions as well as feedback and support that is helpful and friendly. 
+Another theme was the sense that the community offers helpful and constructive responses to questions as well as feedback and support that is helpful and friendly. 
 
 >  Friendly response to first contributors. Generally a real attempt to be constructive in PR review (and keep a sense of humor, especially pllim; thanks!!)
 
-> On the FB group I've been floored by the way everyone is respectful to questioners, even if they approach with little prior knowledge. I am so, so grateful for everyone involved in astropy development - it has absolutely transformed my work from IDL days.
+> On the FB group I've been floored by the way everyone is respectful to questioners, even if they approach with little prior knowledge. I am so, so grateful for everyone involved in Astropy development - it has absolutely transformed my work from IDL days.
 
 > Most of my interactions with the broader Astropy community have been supportive, even including code reviews.
 
@@ -124,7 +124,7 @@ When asked if respondents had contributed code to Astropy, 67% have not, while 3
 
 When asked if respondents contribute to other software that is dependent upon Astropy, 55% of respondents reported having done so in the past year, with a further 6% having done so more than a year ago. Leaving 39% of respondents who had not. 
 
-When asked about contributing to or maintaining affilitated packages, 24% had done so, 19% in the past year, and 5% more than a year ago. Most respondents, 76% report they have never done so. 
+When asked about contributing to or maintaining affiliated packages, 24% had done so, 19% in the past year, and 5% more than a year ago. Most respondents, 76% report they have never done so. 
 
 
 ### Documentation and Educational Modules 

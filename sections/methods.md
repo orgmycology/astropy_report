@@ -7,6 +7,7 @@ To recruit survey responses, we sent an email to the google group `astropy-dev`,
 Data quality is slightly impacted because the first 7 respondents had an erroneous logic loop in the survey software that made it impossible to continue unless answering one question in a particular way. We will note where this impacts the results, but we do not believe it impacts the findings significantly.
 
 ## A Note About Qualitative Research 
+
 We qualitatively analyzed the open survey responses by annotating each one with codes (think of qualitative coding as tagging or annotating the data). We then grouped together like responses and found themes in the data. A few things to note about this type of analysis.
 
 In this report we will share the themes that emerged in the data with a short description and a number of quotes that show examples of the theme. For the Astropy community, we elected to offer more quotes than we might in a non-academic white paper because we believed the raw data of the survey responses would be of interest to this community. 

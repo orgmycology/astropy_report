@@ -34,7 +34,7 @@ b) Discourse
 c) Slack  
 d) GitHub  
 e) Twitter/X  
-f)Bluesky  
+f) Bluesky  
 g) Mastodon  
 h) Facebook  
 i) In-person events (e.g. conferences)  
@@ -157,7 +157,7 @@ Free text
 
 ### What time zone are you in?
 
-List of global timezones
+List of global time zones
 
 ### We are doing research on diversity, equity and inclusion in the Astropy community and are looking for folks to interview. Are you open to being contacted for this research?
 

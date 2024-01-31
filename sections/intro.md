@@ -6,7 +6,8 @@ Community engagement is essential for growing and sustaining healthy open source
 ## Research Questions
 
 Our engagement with Astropy had four work streams: 
-1. Supoprting Beryl Kanali in her new role as the community manager of Astropy. 
+
+1. Supporting Beryl Kanali in her new role as the community manager of Astropy. 
 2. Tracking the engagement of the community across various platforms, 
 3. Conducting a community engagement survey of the community and 
 4. Conducting a small number of interviews with community members who were willing to talk about how they experience DEI (Diversity, Equity and Inclusion) within the Astropy community.

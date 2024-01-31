@@ -16,7 +16,7 @@ Likewise, [tone and approach](https://ieeexplore.ieee.org/abstract/document/6614
 
 ## Develop and visualize user-to-contributor pipelines
 
-All OSS projects tend to struggle with getting users across the threshold to being contributors. We encourage Astropy and its community manager to develop and visualize pathways to becoming a contributor so that newcomers and longtime users can easily see the steps they need to take to make contributions. This effort begins with identifying the common personas of existing community members. For example:
+All OSS projects tend to struggle with getting users across the threshold to being contributors. We encourage Astropy and its community manager to develop and visualize pathways to becoming a contributor so that newcomers and long time users can easily see the steps they need to take to make contributions. This effort begins with identifying the common personas of existing community members. For example:
 
 * Novice user (e.g., students)
 * Engaged user (e.g., researchers who use Astropy in their work)
@@ -28,7 +28,7 @@ All OSS projects tend to struggle with getting users across the threshold to bei
 
 Building out these archetypes with the skills required to move between them--perhaps by using [skill and mastery rubrics](https://github.com/jduckles/dsskills)--and making these visualizations available to community members alongside learning resources can make the pathway less daunting for those who wish to contribute more to the project.
 
-It is important to develop these pathways in such a way that does not inhibit new, unforseen talent flowing into the community. Across our research with Astropy and other communities, we've seen how the "old guard" can preference skills and approaches that have been valuable in the past (and may remain valuable today) to the exclusion of different abilities that may add value. This issue may become increasingly important as advances in other domains (e.g., AI and machine learning) filter into the astronomy community. 
+It is important to develop these pathways in such a way that does not inhibit new, unforeseen talent flowing into the community. Across our research with Astropy and other communities, we've seen how the "old guard" can preference skills and approaches that have been valuable in the past (and may remain valuable today) to the exclusion of different abilities that may add value. This issue may become increasingly important as advances in other domains (e.g., AI and machine learning) filter into the astronomy community. 
 
 
 ## Make existing resources visible
@@ -44,7 +44,7 @@ As mentioned with communication channels, Astropy already has robust infrastruct
 ## Improving culture
 Most community members we interacted with throughout our research and consulting were happy with the climate and culture of the project. There are, however, opportunities to improve this further and ensure that community members remain engaged while moving from user to contributor. 
 
-* Engage community in synchronous online events / community calls that vary in timezone feasibility
+* Engage community in synchronous online events / community calls that vary in time zone feasibility
 * Regularly share priority channels across other channels (i.e., advertise the conversations happening on Slack via email list, point out the email list via Slack / Facebook, etc.)
 * Make priorities for new skills and approaches clear (e.g., send out requests for varied expertise, such as "Do you or someone you know want to help Astropy better implement linter functionality?")
 * Make more direct connections to communities we want to see better represented (e.g., HBCUs, citizen scientists, non-U.S./European users and contributors)
