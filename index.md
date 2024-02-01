@@ -3,4 +3,10 @@
 This report was created in early 2024 by the team 
 at [Organizational Mycology](https://orgmycology.com) for the Astropy Open Source community. 
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10603049.svg)](https://doi.org/10.5281/zenodo.10603049)
+
+
+
 **Abstract:** This report presents an analysis of data collected from an Astropy community engagement survey, with the aim of understanding the community's composition, participation avenues, communication channels, and strategies to increase involvement. The majority of survey respondents are professional astronomers, primarily from North America, and in early to mid-career stages, with 40% having been involved with Astropy for 5-10 years. Astropy is recognized for its high-quality, well-documented open-source software, and its community is appreciated for being friendly and supportive, with transparent and organized leadership. The main modes of engagement include GitHub, documentation, educational materials, and the practical application of Astropy software. Communication within the community is primarily conducted through online forums, which serve as platforms for technical support and updates. However, fragmentation between users and developers and a lack of awareness about certain forums like Slack and Facebook have been identified as areas for improvement. To enhance participation, respondents suggest simplifying the contribution process, improving documentation standards, and offering more support for educational resources. Barriers to contribution include the intimidating nature of Git, the complexity of the software, and the perceived value of contributions to one's career. The report concludes with recommendations for increasing community participation, such as developing resources for beginners, improving communication, and conducting outreach. Additionally, consultant recommendations focus on helping newcomers integrate, visualizing the user-to-contributor pipeline, making resources more visible, and cultivating a positive community culture.
