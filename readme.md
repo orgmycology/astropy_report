@@ -1,7 +1,7 @@
 # Astropy Report 
 
 This report was created as part of a project to support the newly hired community manager at Astropy in late 2023. 
-Details of that contract, supported by a grant from the Moore Foundation [are in this GitHub Issue](https://github.com/astropy/astropy-project/issues/310#issuecomment-1677899854)
+Details of that contract, supported by a grant from the Moore Foundation that supported this work [are in this GitHub Issue](https://github.com/astropy/astropy-project/issues/310#issuecomment-1677899854)
 
 While this report is largely done, we welcome issues that identify typos, or comments and suggestions for future work, either with Astropy or with other organizatinos.  
 
