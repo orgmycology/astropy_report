@@ -1,5 +1,9 @@
 # Astropy Report 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10603049.svg)](https://doi.org/10.5281/zenodo.10603049)
+
+
 This report was created as part of a project to support the newly hired community manager at Astropy in late 2023. 
 Details of that contract, supported by a grant from the Moore Foundation that supported this work [are in this GitHub Issue](https://github.com/astropy/astropy-project/issues/310#issuecomment-1677899854)
 
