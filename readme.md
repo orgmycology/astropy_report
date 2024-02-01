@@ -7,3 +7,15 @@ While this report is largely done, we welcome typos, comments and suggestions fo
 
 If you'd like to have Organizatinoal Mycology do similar work with you, get in touch with us via email (info at orgmycology dot com).
 
+## Dependencies
+
+- quarto
+- xelatex (to build PDF)
+
+```
+quarto render # builds PDF and HTML versions of report
+```
+
+## Automation 
+
+A GitHub action runs the build and pushes to Cloudflare Pages on each commit. 
