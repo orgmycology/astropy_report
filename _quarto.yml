@@ -7,7 +7,14 @@ toc: true
 number-sections: true
 
 book:
-  author: [Beth Duckles, Dan Sholler, Jonah Duckles]
+  title: "Astropy Community Engagement"
+  author: 
+   - name: Beth Duckles
+     email: beth@orgmycology.com
+   - name: Dan Sholler
+     email: dan@orgmycology.com
+   - name: Jonah Duckles
+     email: jonah@orgmycology.com
   date: "February 1, 2024"
   downloads: [pdf]
   page-footer:
@@ -53,3 +60,4 @@ format:
   pdf:
     cover-image: cover.png
     documentclass: scrbook
+    papersize: a4
