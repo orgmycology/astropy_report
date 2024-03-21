@@ -7,8 +7,7 @@ We asked respondents what they would change about Astropy, leaving the question 
 
 ### Easier Contributions
 
-Respondents described wanting wanting to make contributions to the community easier. Some also described not knowing how to make a contribution more learning opportunities for newcomers or returning
-members and 
+Respondents described a desire to make contributions to the community easier. In particular, both newcomers and returing community members mentioned not knowing how to make a contribution and seeking more learning opportunities.
 
 > A \"one stop shop\" or \"single pager\" for new people t learn how astropy works and how to get involved. Ideas such as the first projects tags on github should continue.
 
@@ -43,8 +42,7 @@ standards.
 
 ### Support for Non-Astropy Software
 
-There was a theme around getting support for how to use astropy in more complex environments with other software, as well as exploring new paradigms for computing
-within the community.
+Respondents reported some issues with interoperability, offering feedback and ideas around getting support for how to integrate astropy in less-compatible workflows. These community members want to use astropy in more complex environments with other software and "new paradigms" in computing.
 
 >  expanded emphasis on astronomical software in general. python is a good solution for many use cases, but not always the optimal one.
 
@@ -57,10 +55,7 @@ to successfully use them with astropy methods.
 
 ### Code Quality and Maintenance
 
-There were some concerns about quality and purity of code coming before some
-more practical concerns. Also an observation of a need for more people with the role of "maintainer".
-It is clear that community members value code quality and stability of code that comes from 
-the community. 
+There were some concerns about project maintainers prioritizing quality and purity of code over more practical concerns. One respondent suggested that the project assign more people the role of "maintainer". It is clear that community members value code quality and stability of code that comes from the community, but understand the labor demands of these successes. 
 
 > I perceive the community to be snobbish about code quality / purity, while at the same time undermining itself with things like cosmetic changes to API options that breaks my code whenever I upgrade to the latest version.
 
@@ -72,8 +67,7 @@ the community.
 
 ### Happy with the current state or personal challenges
 
-Several respondents were comfortable with the way the community is at the moment.
-While some thought there would be some ways to improve involvement and kindness.
+Several respondents were comfortable with the way the community is at the moment, while some thought there would be some ways to improve involvement and kindness.
 
 > I know it\'s not helpful, but I really like the community right now and I don\'t have any ideas at the moment about how it could be improved.
 
@@ -121,9 +115,9 @@ There was feedback about the challenges of submitting PRs and the number of comm
 
 ## Barriers to Contribution 
 
-We asked participants specifically about barriers they had to using or contributing to the Astropy project and `astropy` software. These barriers ranged from technical to community and more broadly systemic barriers to how software development is credited in academic communities. 
+We asked participants specifically about barriers they had to using or contributing to the Astropy project and `astropy` software. These barriers included technical, community-related, and broader systemic factors, often related to how software development is (not) credited in academic communities. 
 
-Some areas to explore changes in how Astropy works could be around how first  contributions take place, and what can be done to remove barriers to the first contribution made in the community. 
+Some areas to explore changes in Astropy's approaches to encourging and managing contribution include: evaluating how first contributions take place, identifying when, how, and why potential contributors bow out, and what can be done to remove barriers to the first contribution made in the community. 
 
 ###   Git is Intimidating
 
@@ -138,8 +132,7 @@ how Git itself can be a barrier as it can be intimidating and require some skill
 
 ### Complexity and Technical Skill
 
-Many responses centred around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are 
-often not always better for the newcomer. 
+Many responses centred around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are often not always better for the newcomer. 
 
 > Astropy is huge. The project is very daunting to find a place to contribute.
 
@@ -167,7 +160,7 @@ A few responses talked about not knowing where to start and how to bring their s
 
 ###  Value of the Work to One's Career
 
-A few responses focused on how their own jobs or careers did not value contribution to open source. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader community. 
+A few responses focused on how their own jobs or careers did not value contribution to open source. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader OSS community. 
 
 >   It\'s not counted as valuable work.
 
