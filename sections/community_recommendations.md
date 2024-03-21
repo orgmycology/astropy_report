@@ -74,7 +74,6 @@ Some respondents seemed to be unaware of the various platforms available for com
         interact, discuss issues, suggest improvements that has a low
         barrier to entry.
 
-
 ### Workshops
 
 Across all questions, respondents communicated an appetite for more learning opportunities. Most of these suggestions centred around workshops on various topics (e.g., contributor workshops, demo workshops, coding workshops, and workshops for underrepresented communities):
