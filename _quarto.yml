@@ -57,6 +57,9 @@ book:
 format:
   html:
     theme: flatly
+    include-in-header:
+      - text: |
+          <script defer data-domain="reports.orgmycology.com" src="https://a.duckles.nz/js/script.js"></script>
   pdf:
     cover-image: cover.png
     documentclass: scrbook
