@@ -56,10 +56,14 @@ book:
     - sections/appendix.md
 format:
   html:
-    theme: flatly
+    theme: 
+      - flatly
+      - custom_fonts.scss
     include-in-header:
       - text: |
           <script defer data-domain="reports.orgmycology.com" src="https://a.duckles.nz/js/script.js"></script>
+    mainfont: valkyrie_a_regular
+    fontsize: medium 
   pdf:
     cover-image: cover.png
     documentclass: scrbook
