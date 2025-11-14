@@ -1,6 +1,6 @@
 
 
-# Executive Summary {.unnumbered}
+# Executive Summary 
 
 This paper synthesizes data we collected in an Astropy community engagement survey. We focus on four research questions to better understand: 
 

@@ -1,0 +1,88 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  downloads:
+    - id: reportpdf
+      title: Full Report PDF
+  exports:
+    - format: pdf
+      logo: short_logo.png
+      template: lapreprint-typst
+      id: reportpdf
+      output: exports/report.pdf
+      articles: 
+        - index.md
+        - file: sections/exec_summary.md
+        - file: sections/intro.md
+        - file: sections/methods.md
+        - file: sections/1_community_composition.md
+        - file: sections/2_community_participation.md
+        - file: sections/3_communication.md
+        - file: sections/4_improving_participation.md
+        - file: sections/community_recommendations.md
+        - file: sections/consultant_recommendations.md
+        - file: sections/references.md
+        - file: sections/appendix.md
+  license: 
+    content: CC0-1.0
+  date: 2024-02-03
+  funding: This work was supported by the Gordon and Betty Moore Foundation
+  title: Astropy Community Engagement
+  description: This report, based on survey data to learn more about members of the Astropy Community. 
+  # keywords: []
+  authors: 
+    - name: "Dan Sholler"
+      affiliations:
+        - "Organizational Mycology"
+      url: https://orgmycology.com
+      email: info@orgmycology.com
+      linkedin: https://www.linkedin.com/in/dan-sholler-46169620/
+      bluesky: https://bsky.app/profile/dansholler.bsky.social
+      orcid: 0000-0003-2517-4317
+    - name: "Beth Duckles"
+      affiliations:
+        - "Organizational Mycology"
+      url: https://orgmycology.com
+      email: info@orgmycology.com
+      linkedin: https://www.linkedin.com/in/beth-m-duckles/
+      bluesky: https://bsky.app/profile/bduckles.bsky.social
+      orcid: 0000-0001-8342-0710
+    - name: "Jonah Duckles"
+      affiliations:
+        - "Organizational Mycology"
+      url: https://orgmycology.com
+      email: info@orgmycology.com
+      linkedin: https://www.linkedin.com/in/jduck/
+      bluesky: https://bsky.app/profile/jonah.duckles.nz
+      orcid: 0000-0002-8985-3119
+  id: 5d04cedd-108f-4f98-81b3-de6aa2cd23f6
+  github: https://github.com/orgmycology/astropy_report
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - file: sections/exec_summary.md
+    - title: Introduction and Methods
+      children:
+        - file: sections/intro.md
+        - file: sections/methods.md
+    - title: Survey Results
+      children:
+        - file: sections/1_community_composition.md
+        - file: sections/2_community_participation.md
+        - file: sections/3_communication.md
+        - file: sections/4_improving_participation.md
+    - title: Recommendations
+      children:
+        - file: sections/community_recommendations.md
+        - file: sections/consultant_recommendations.md
+    - title: Appendices
+      children:
+        - file: sections/references.md
+        - file: sections/appendix.md
+
+site:
+  template: book-theme
+  options:
+     favicon: favicon.ico
+     logo: horizontal_logo.png
+     logo_dark: horizontal_logo_dark.png

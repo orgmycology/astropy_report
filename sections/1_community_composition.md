@@ -14,14 +14,11 @@ Those who do not work in Astronomy are a student, a freelance software developer
 
 Strong academic software communities have a mix of early, mid and late career participation. In this survey we found that the folks who responded to the survey were distributed strongly towards early to mid career representation, but with some participation in very early and late career age cohorts. 
 
-![](https://pad.duckles.nz/uploads/3cf7732c-6b12-448c-a2bf-43f92770ad4d.png)
-
 
 ## Involvement in Astropy
 
 The length of involvement shows over half (57) of respondents have been involved for five years or more, with 40 having been involved for less than five years. For a community looking to constantly re-charge and grow its long-term utility and appeal it is important to continue to be inviting new community members. Continuing to fill the pipeline with participants who have not been involved for very long can help to build long-term participation. 
 
-![](https://pad.duckles.nz/uploads/8431c6b5-5dd6-45a8-b7c0-ecf9c71f32b7.png)
 
 ## Location and Time Zones
 

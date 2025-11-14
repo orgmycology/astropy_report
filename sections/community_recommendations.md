@@ -42,6 +42,8 @@ One respondent made a suggestion for how to turn these ideas into action, which 
         welcome. A newsletter or how-to on the new coding checks like
         ruff would be helpful.
 
+<br>
+
 ### Contribution List
 Beyond newcomer workshops, other respondents suggested lightweight options that in some cases already exist and could benefit from some tweaking. A separate repository for newcomer issues, for example, may help get more contributors on board, particularly if the list could include skills that are required. 
 
@@ -68,11 +70,17 @@ Outreach to newcomers could also emphasize that projects like Astropy depend on 
 >  Clearly make people aware that software is something to be part
         of, not just make use of.
 
+<br>
+
+
 ## Communication/Community Interaction
 Some respondents seemed to be unaware of the various platforms available for communicating with other Astropy community members, suggesting that better advertising of these outlets may help facilitate interactions:
 >  Have a well organized platform where the community can easily
         interact, discuss issues, suggest improvements that has a low
         barrier to entry.
+
+<br>
+
 
 ### Workshops
 
@@ -104,6 +112,9 @@ The workshops and events that Astropy already offers could also be easier to fin
         materials on the Zenodo page, but it would be nice to also have
         information on when future events will take place if I don\'t
         already know about them.
+
+<br>
+
 
 ###  More Outreach
 Beyond workshops, community members suggested other forms of outreach that may help Astropy's community thrive. Educational outreach, for example, could help reach potential users and contributors who are already in an active learning environment:
@@ -146,6 +157,9 @@ Outreach could also include conducting research with potential users and contrib
         have had time to. Increase outreach to communities outside of
         Europe & North America.
 
+<br>
+
+
 ## Other Suggestions
 Additional responses from surveys are listed below: 
 
@@ -175,6 +189,9 @@ Additional responses from surveys are listed below:
         to and writing new tutorials might be a way to help: newcomers
         know best what tutorials are needed.
 
+<br>
+
+
 ## Money
 
 Respondents also had thoughts and suggestions around how Astropy could ask for more money to facilitate these community improvement ideas and otherwise sustain the project. 
@@ -191,6 +208,8 @@ Respondents also had thoughts and suggestions around how Astropy could ask for m
 > Ask big consortia to contribute somehow if they release software
         built on astropy software?
 
+<br>
+
 ## It is Good
 Finally, some Astropy community members felt that things were going well. 
 
@@ -198,3 +217,4 @@ Finally, some Astropy community members felt that things were going well.
         expected.
 
 > Great engagement already, keep up the good work!
+

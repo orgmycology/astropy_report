@@ -26,6 +26,8 @@ Respondents said that Astropy creates high quality, well-documented software as 
 
  > They are inclusive, thoughtful, and help develop and steward a truly wonderful (useful, user-friendly, powerful, versatile) software product.
 
+<br>
+
 ### Useful
 
 Respondents said that they used Astropy software in their work and described it as practical, reliable and useful. Several respondents mention that it is a core part of the work they do. 
@@ -41,6 +43,8 @@ Respondents said that they used Astropy software in their work and described it 
 > Very welcoming, nice group of people that are focused on making a practical tool for astronomy
 
 
+<br>
+
 ### Openness
 
 Another theme was the importance of the software being open. This was often paired with a comment about kindness or the helpfulness of the people in the organization.  
@@ -51,6 +55,7 @@ Another theme was the importance of the software being open. This was often pair
 
 > It's open source and most of the people are helpful and have similar kinds of coding/software problems as me
 
+<br>
 
 ### Friendly
 
@@ -61,6 +66,8 @@ The word "friendly" was used often in describing Astropy largely in terms of the
 > Always helpful and friendly.
 
 > It's a friendly, inclusive community that \[creates\] useful, pragmatic software development standards.
+
+<br>
 
 ### Welcoming Community
 
@@ -74,6 +81,8 @@ Survey respondents talked about the inclusive and welcoming nature of the commun
 
 > Since I joined... I was welcomed into the community, and worked my way up to leadership positions that align with my values.
 
+
+<br>
 
 ### Constructive Feedback and Support
 
@@ -90,6 +99,8 @@ Another theme was the sense that the community offers helpful and constructive r
 >  I think Astropy pundits are inclined to help out with user questions.
 
 
+<br>
+
 ### Leadership
 
 Respondents described the leadership of Astropy as transparent and well organized. 
@@ -100,6 +111,7 @@ Respondents described the leadership of Astropy as transparent and well organize
 
 > It\'s active and continues to put in effort to improve engagement and its structure as an organization.
 
+<br>
 
 ### Other
 
@@ -109,6 +121,8 @@ Additional comments responding to what people liked about Astropy are:
 
 > Supportive, great resources for students
 
+
+<br>
 
 ## How to Engage with Astropy
 

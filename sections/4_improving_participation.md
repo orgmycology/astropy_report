@@ -19,6 +19,9 @@ Respondents described a desire to make contributions to the community easier. In
 
 > Make it easier to contribute
 
+
+<br>
+
 ### Development of Affiliated Packages
 
 The Astropy community seems to value affiliated packages both for their utility in practice and the experience of developing affiliated packages alongside the community's experts. Still, respondents had several ideas for improvements in affiliated package development and standardization. 
@@ -28,6 +31,9 @@ The Astropy community seems to value affiliated packages both for their utility 
 > We see that hack days can kick-start really useful tools on timescales of days, and full-time positions (like those belonging to folks at STScI) can construct sustainable tools on timescales of months or more. GSoC can do something intermediate, but those positions are focused more on mentorship. Of course, there are plenty tasks to accomplish on the to-do list already. But I worry, for example, that small grants to \"explore units compatibility with dask\" might be \*too\* small. Working a few percent over a year might be less efficient than six focused months at a much higher level.
 
 > I know we don\'t have money to do this right now, but what if we competitively award grants to post-PhD folks to seed projects that could become affiliated packages? We could provide check-ins with liaisons from astropy who work to preserve/enforce interoperability within the ecosystem. And we\'d help foster the folks at upper end of the user-to-developer pipeline.
+
+
+<br>
 
 ### Standards for Affiliated Packages
 
@@ -39,6 +45,9 @@ standards.
 > Clearer documentation (including tutorials) about how to convert an existing package to an Astropy Affiliated package (without assuming the person who wants to do this is already an Astropy developer).
 
 > More standardization and quality control
+
+
+<br>
 
 ### Support for Non-Astropy Software
 
@@ -53,6 +62,8 @@ to successfully use them with astropy methods.
  high-performance computing, like JAX.
 
 
+<br>
+
 ### Code Quality and Maintenance
 
 There were some concerns about project maintainers prioritizing quality and purity of code over more practical concerns. One respondent suggested that the project assign more people the role of "maintainer". It is clear that community members value code quality and stability of code that comes from the community, but understand the labor demands of these successes. 
@@ -64,6 +75,7 @@ There were some concerns about project maintainers prioritizing quality and puri
 > Not too much, really. It would be nice to have more highly-qualified developers with free time to dedicate to open issues.
 
 
+<br>
 
 ### Happy with the current state or personal challenges
 
@@ -77,12 +89,18 @@ Several respondents were comfortable with the way the community is at the moment
 
 > Replace Astronomers with kinder and more normal people.
 
+
+<br>
+
 ### More Support for Education
 
 One respondent expressed a need for a more full curriculum shared by the Astropy community
 that can help teach astronomy programming with more structure.
 
 > Having more tutorials and perhaps a full curriculum available for instructors to use/adapt for classes would help greatly. Astronomy programming is still taught somewhat ad-hoc at least at my institution.
+
+
+<br>
 
 ### Support for Early Career Astronomers
 
@@ -93,6 +111,7 @@ software development.
 
 > Much of it is built by early career researchers who deserve better rewards! But that\'s not so much a problem in the Astropy community but rather in academia as a whole.
 
+<br>
 
 ### Networking and Jobs 
 One respondent was interested in seeing more career development opportunities
@@ -101,17 +120,24 @@ or project collaboration opportunities as part of the community.
 > One thing I would like to suggest is showing related job or project
     opportunities
 
+
+<br>
+
 ### Faster Response Times 
 
 One respondent was concerned about how some GitHub Issues linger unaddressed by the community. 
 
 > Better responses to issues raised (often just ignored, even if they are acknowledged issues)
 
+<br>
+
 ### PR Process
 
 There was feedback about the challenges of submitting PRs and the number of comments and changes requested for PRs. 
 
 > easier PRs (often excessive commenting and requested changes by dev, making the experience very onerous)
+
+<br>
 
 ## Barriers to Contribution 
 
@@ -130,6 +156,8 @@ how Git itself can be a barrier as it can be intimidating and require some skill
        
 >    see previous answer about being more welcoming of non-expert contributions to github issues and code.
 
+<br>
+
 ### Complexity and Technical Skill
 
 Many responses centred around the sheer complexity of the Astropy software stack, and how that itself was a barrier to entry. Others noted that tools and procedures to make developer's lives better are often not always better for the newcomer. 
@@ -144,6 +172,7 @@ Many responses centred around the sheer complexity of the Astropy software stack
         
 >    We could lower the bar for contributing code by being careful of the barriers that the Python linter \"ruff\" has introduced.
 
+<br>
 
 ### Knowing Where to Start
 
@@ -158,6 +187,8 @@ A few responses talked about not knowing where to start and how to bring their s
 
 > I'm a rubbish coder!
 
+<br>
+
 ###  Value of the Work to One's Career
 
 A few responses focused on how their own jobs or careers did not value contribution to open source. This is a common problem in many academic open source domains, and is worth discussing as a community to better understand how the reward structures in Astronomy may not be aligned with work that needs to be done as a broader OSS community. 
@@ -165,6 +196,8 @@ A few responses focused on how their own jobs or careers did not value contribut
 >   It\'s not counted as valuable work.
 
 >   My biggest barrier has been the expectation that the longevity of my career as an astronomer would be at risk if I contributed to astropy as frequently as I wanted. Few things in life are zero-sum, but there\'s no flexibility on the finite 24 hours in a day. I was cautious about spending time on work in the astropy ecosystem that wouldn\'t produce a first author paper.
+
+<br>
 
 ### Community
 
@@ -178,6 +211,8 @@ focused on optical astronomy.
 
 >  I am not been able to get involved with the astropy project due to lack of interaction with the community. If there\'s any way to interact with the community, I believe I and many more people will be able to contribute
 
+<br>
+
 ###   Documentation
 
 Documentation was observed to be not very accessible to one respondent. Some 
@@ -187,6 +222,7 @@ more useful to newcomers.
 
 >  Minimal (and somewhat outdated) documentation for creating an Astropy affiliated package; the assumption seemed to be that people doing this would already be very familiar with the Astropy package architecture and procedures, and so no explanation of what anything in the (default) package was for seemed to exist. Consequently, I gave up my attempt to create an affiliated package.
 
+<br>
 
 ### No problems
 
@@ -196,3 +232,5 @@ A few responses have said that their first contributions went very well, and the
 
 >  No, to the contrary: the friendly response to my first
 issues/PRs is a major reason I got hooked.
+
+<br>

@@ -2,3 +2,6 @@
 _output/*
 .DS_Store
 dictionary.dic
+
+# MyST build outputs
+_build
