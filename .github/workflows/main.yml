@@ -1,0 +1,47 @@
+name: jupyterbook-publish
+
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+  # to be able to trigger a manual build
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+
+
+      # Install dependencies
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip # Implicitly uses requirements.txt for cache key
+
+      - name: Install Jupyter Book
+        run: pip install jupyter-book
+
+      - uses: typst-community/setup-typst@v4
+      # Build the book
+      - name: Build the book
+        run: |
+          jupyter-book build --html --pdf --ci
+
+
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _build/html --project-name=astropy-report
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
