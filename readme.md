@@ -14,11 +14,10 @@ If you'd like to have Organizatinoal Mycology do similar work with you, get in t
 
 ## Dependencies
 
-- quarto
-- xelatex (to build PDF)
+- jupyter-book
 
 ```
-quarto render # builds PDF and HTML versions of report
+jupyter-book build --pdf --html # builds PDF and HTML versions of report
 ```
 
 ## Automation 
